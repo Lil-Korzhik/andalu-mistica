@@ -1,2 +1,2 @@
-# Andalu-Mistica | Front-End (Next JS)
-Front-End часть приложения Andalu-Mistica
+# Andalu-Mistica | Back-End (Strapi)
+Back-End часть приложения Andalu-Mistica
